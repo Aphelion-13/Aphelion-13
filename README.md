@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumen
-- 👀 My interest includes in Algorithm, Competitive Programming, Database Management and Software Development.
+- 👀 My interest lies in Algorithm, Competitive Programming, Database Management and Software Development.
       Also interested to contribute as a Frontend Developer.
 - 🌱 I’m currently pursuing Btech in Computer Science and Engineering...
 - 📫 How to reach me soumen5937@gmail.com
